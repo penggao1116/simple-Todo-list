@@ -1,0 +1,36 @@
+body {
+  background-color: blanchedalmond;
+  font-family: 'Times New Roman', Times, serif
+}
+
+h1 {
+  margin-bottom: 0px;
+}
+
+ul {
+  color: rgb(30, 120, 210);
+}
+
+p {
+  width: 300px;
+}
+
+#description {
+  margin-top: 10px;
+  width: 200px;
+}
+
+#submitButton{
+  border-radius: 10px;
+  color: rgb(30, 120, 210);
+  background-color: white;
+  border-width: 1px;
+
+} 
+
+#textBox {
+  border-radius: 10px;
+  border-width: 1px;
+  color: rgb(30, 120, 210);
+  background-color: white;
+}
